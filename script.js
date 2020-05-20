@@ -24,3 +24,4 @@ function newYear() {
 setInterval(() => {
     newYear();
 }, 1000);
+
