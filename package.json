@@ -1,0 +1,26 @@
+{
+  "name": "calender_count_2020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "2021"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KavinSelvarasu/calender_count_2020.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "kavin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KavinSelvarasu/calender_count_2020/issues"
+  },
+  "homepage": "https://github.com/KavinSelvarasu/calender_count_2020#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1"
+  }
+}
